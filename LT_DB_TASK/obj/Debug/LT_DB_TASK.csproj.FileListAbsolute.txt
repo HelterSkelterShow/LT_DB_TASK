@@ -1,0 +1,10 @@
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\bin\Debug\LT_DB_TASK.exe.config
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\bin\Debug\LT_DB_TASK.exe
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\bin\Debug\LT_DB_TASK.pdb
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\obj\Debug\LT_DB_TASK.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\obj\Debug\LT_DB_TASK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\obj\Debug\LT_DB_TASK.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\obj\Debug\LT_DB_TASK.csproj.CopyComplete
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\obj\Debug\LT_DB_TASK.exe
+C:\Users\Sergey\source\repos\LT_DB_TASK\LT_DB_TASK\LT_DB_TASK\obj\Debug\LT_DB_TASK.pdb

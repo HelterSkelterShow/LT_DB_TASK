@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sergey\\source\\repos\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sergey\\source\\repos\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sergey\\source\\repos\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK.csproj",
+        "projectName": "LT_DB_TASK",
+        "projectPath": "C:\\Users\\Sergey\\source\\repos\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK.csproj",
+        "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergey\\source\\repos\\LT_DB_TASK\\LT_DB_TASK\\LT_DB_TASK\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Sergey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
